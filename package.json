@@ -18,13 +18,13 @@
     "coverage-badges": "make-coverage-badge",
     "commit": "cz"
   },
-  "homepage": "https://github.com/Donaldcwl/browser-image-compression#readme",
+  "homepage": "https://github.com/troymeyer1/browser-image-compression#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Donaldcwl/browser-image-compression"
+    "url": "https://github.com/troymeyer1/browser-image-compression"
   },
   "bugs": {
-    "url": "https://github.com/Donaldcwl/browser-image-compression/issues"
+    "url": "https://github.com/troymeyer1/browser-image-compression/issues"
   },
   "keywords": [
     "image compression",
@@ -33,7 +33,7 @@
     "reduce resolution",
     "reduce size"
   ],
-  "author": "Donald <donaldcwl@gmail.com>",
+  "author": "Troy Meyer <troymeyer@att.net>",
   "license": "MIT",
   "files": [
     "dist"
