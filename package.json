@@ -21,7 +21,7 @@
   "homepage": "https://github.com/troymeyer1/browser-image-compression#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/troymeyer1/browser-image-compression"
+    "url": "git+https://github.com/troymeyer1/browser-image-compression.git"
   },
   "bugs": {
     "url": "https://github.com/troymeyer1/browser-image-compression/issues"
